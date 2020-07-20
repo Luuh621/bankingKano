@@ -38,3 +38,4 @@ out/
 /bin/
 /build/
 /.gradle/
+*/application.properties
